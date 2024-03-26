@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get_it: ^7.6.7
+  http: ^1.2.1
+  open_meteo: ^1.0.5
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:
